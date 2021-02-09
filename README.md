@@ -1,10 +1,14 @@
-# Yelp-Camp-Nodejs (Deprecated)
-## Repo contains project that learns from [The web developer bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) courses
+# The Web Developer Bootcamp (Legacy)
+## Project from [The web developer bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) course
 ---------------------------------------------------------------------------------------------------------------------------------
 ## Link Demo [Yelpcamp Demo](https://camping-is-fun.herokuapp.com/)
 ---------------------------------------------------------------------------------------------------------------------------------
-## Tools used
-### Front end
-#### HTML5, [Bootstrap 3](https://getbootstrap.com/), [Font Awesome](https://fontawesome.com/)
-### Back end
-#### [Expressjs](https://expressjs.com/) version 3, [ejs](https://ejs.co/) for render page, [mongodb](https://www.mongodb.com/)
+## Technologies
+1. Front end
+   * HTML5
+   * [Bootstrap 3](https://getbootstrap.com/)
+   * [Font Awesome](https://fontawesome.com/)
+2. Back end
+   * [Expressjs](https://expressjs.com/) version 3
+   * [Ejs (Render engine)](https://ejs.co/)
+   * [Mongodb](https://www.mongodb.com/)
