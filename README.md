@@ -1,4 +1,4 @@
-# Yelp-Camp-Nodejs
+# Yelp-Camp-Nodejs (Deprecated)
 ## Repo contains project that learns from [The web developer bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) courses
 ---------------------------------------------------------------------------------------------------------------------------------
 ## Link Demo [Yelpcamp Demo](https://camping-is-fun.herokuapp.com/)
