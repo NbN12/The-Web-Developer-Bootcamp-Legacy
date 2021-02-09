@@ -1,8 +1,8 @@
 # The Web Developer Bootcamp (Legacy)
-## Project from [The web developer bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) course
----------------------------------------------------------------------------------------------------------------------------------
-## Link Demo [Yelpcamp Demo](https://camping-is-fun.herokuapp.com/)
----------------------------------------------------------------------------------------------------------------------------------
+> Project from [The web developer bootcamp](https://www.udemy.com/the-web-developer-bootcamp/) course
+
+## Demo [Yelpcamp](https://camping-is-fun.herokuapp.com/)
+
 ## Technologies
 1. Front end
    * HTML5
